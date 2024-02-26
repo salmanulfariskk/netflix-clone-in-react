@@ -1,0 +1,53 @@
+.banner {
+    background-size: cover;
+    height: 500px;
+    color: white;
+}
+
+.content {
+    padding-left: 50px;
+    height: 190px;
+}
+
+.title {
+    font-size: 3rem;
+    font-weight: 800;
+    padding-bottom: 0.3rem;
+}
+
+.button {
+    color: white;
+    outline: none;
+    border: none;
+    font-weight: 700;
+    border-radius: 5px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    background-color: rgb(51, 51, 51, .5);
+    cursor: pointer;
+    margin-right: 1rem;
+}
+.button:hover {
+    color: black;
+    background-color: #e6e6e6;
+}
+
+.description {
+    width: 45rem;
+    line-height: 1.3;
+    padding-top: 1rem;
+    font-size: 1rem;
+    height: 80px;
+    max-width: 360px;
+}
+
+.fade_bottom {
+    height: 7.4rem;
+    background: rgb(0, 0, 0);
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(43,43,43,0) 56%, rgba(141,141,141,0) 100%);
+    margin-top: 200px;
+}
+
+
